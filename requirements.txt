@@ -1,0 +1,10 @@
+
+#pip install -r requirements.txt
+python-dotenv
+google-generativeai
+psutil
+torch
+transformers
+pydantic
+fastapi
+uvicorn
