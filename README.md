@@ -180,8 +180,3 @@ Feel free to explore the API and experiment with different input texts. This set
 
 ---
 
-This updated `README.md` now includes clear instructions to run the FastAPI app with the `uvicorn app.main:app --reload` command for both local and API-based LLM tasks.
-=======
-# AI-HYBRIDFLOW-API
-AIHYBRIDFLOW-API is a flexible data processing pipeline that integrates both external APIs (like OpenAI or Gemini) and local AI models (such as LLaMA). The pipeline bridges the gap between cloud-based and local AI processing, offering robust, hybrid flow capabilities for structured data output, error handling, and seamless integration.
->>>>>>> f23453d92a80daf7b88c149a923e5b885eedc963
