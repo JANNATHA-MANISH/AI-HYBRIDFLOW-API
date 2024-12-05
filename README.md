@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ---
 
 # AI HYBRIDFLOW API: Local and API-Based Language Models
