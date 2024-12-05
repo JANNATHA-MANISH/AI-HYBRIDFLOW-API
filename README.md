@@ -165,10 +165,9 @@ Here are the sample outputs you can expect from the system:
 
 ---
 
-**Image Prompt for README:**
+**IMAGE TO MAKE VISUVALIZATION using ai
+![image (1)](https://github.com/user-attachments/assets/d046351a-0033-440c-b8b5-a53eaa727358)
 
-You can use this prompt for generating images:
-- "Illustration of a machine learning model with a local LLM and API model comparison, showing server architecture with an API call to Google Gemini."
 
 ---
 
