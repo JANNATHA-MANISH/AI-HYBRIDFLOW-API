@@ -3,7 +3,27 @@
 # AI HYBRIDFLOW API: Local and API-Based Language Models
 
 This repository demonstrates the integration of a **local LLM (LLaMA)** and an **API-based LLM (Google Gemini)** in a unified **AI Hybrid Data Processing Pipeline**. Instructions are provided to clone, set up, and run both methods for text processing tasks.
+---
+**OVERVIEW**
 
+![image (1)](https://github.com/user-attachments/assets/d046351a-0033-440c-b8b5-a53eaa727358)
+
+
+Here are the sample outputs you can expect from the system:
+
+**LLaMA (Local Model) Output:**
+
+- Input: `What is the meaning of life?`
+- Output: `The meaning of life is subjective and varies for each individual.`
+
+**Google Gemini (API-Based Model) Output:**
+
+- Input: `What is the capital of France?`
+- Output: `The capital of France is Paris.`
+
+---
+
+---
 ## **Project Overview**
 
 - **Local LLM (LLaMA)**: A lightweight language model that runs locally, requiring minimal resources. It's ideal for smaller text processing tasks and can be deployed on local hardware with lower memory consumption.
@@ -148,26 +168,6 @@ Once the server is running:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## **Screenshots**
-
-Here are the sample outputs you can expect from the system:
-
-**LLaMA (Local Model) Output:**
-
-- Input: `What is the meaning of life?`
-- Output: `The meaning of life is subjective and varies for each individual.`
-
-**Google Gemini (API-Based Model) Output:**
-
-- Input: `What is the capital of France?`
-- Output: `The capital of France is Paris.`
-
----
-
-**IMAGE TO MAKE VISUVALIZATION using ai
-![image (1)](https://github.com/user-attachments/assets/d046351a-0033-440c-b8b5-a53eaa727358)
-
 
 ---
 
